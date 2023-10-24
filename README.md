@@ -1,0 +1,2 @@
+# paper_tape_reader_viewer
+紙テープリーダーの可視化
