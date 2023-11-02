@@ -108,7 +108,7 @@ class ComActionPageState extends State<ComActionView> {
   @override
   void didChangeDependencies() async {
     super.didChangeDependencies();
-    final directory = await getTemporaryDirectory();
+    final directory = await getApplicationDocumentsDirectory();
     outputpath =  "${directory.path}/output.jpg";
     outpathbuff = outputpath.toNativeUtf8();
 
