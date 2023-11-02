@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "228ce0b2-610d-467b-9428-bea2879f4801": {
+      "ProjectGuid": "228ce0b2-610d-467b-9428-bea2879f4801",
+      "DisplayName": "MBCS2UTF8",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
